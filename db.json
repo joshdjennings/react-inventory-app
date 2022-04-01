@@ -1,0 +1,92 @@
+[
+	{
+		"Make": "Volkswagen",
+		"Model": "Super Beetle",
+		"Year": "1971",
+		"Transmission": "Manual",
+		"Color": "Orange",
+		"Purchase Price": "$600",
+		"Years Driven": "1996-1998"
+	},
+	{
+		"Make": "Isuzu",
+		"Model": "Hombre",
+		"Year": "1998",
+		"Transmission": "Manual",
+		"Color": "Green",
+		"Purchase Price": "$9000",
+		"Years Driven": "1998-2005"
+	},
+	{
+		"Make": "Ford",
+		"Model": "Escape",
+		"Year": "2003",
+		"Transmission": "Automatic",
+		"Color": "Red",
+		"Purchase Price": "$22000",
+		"Years Driven": "2005-2012"
+	},
+	{
+		"Make": "Honda",
+		"Model": "Civic",
+		"Year": "2000",
+		"Transmission": "Automatic",
+		"Color": "Blue",
+		"Purchase Price": "$4500",
+		"Years Driven": "2008-2010"
+	},
+	{
+		"Make": "Mazda",
+		"Model": "Tribute",
+		"Year": "2005",
+		"Transmission": "Automatic",
+		"Color": "Red",
+		"Purchase Price": "$18000",
+		"Years Driven": "2010-2012"
+	},
+	{
+		"Make": "BMW",
+		"Model": "335d",
+		"Year": "2011",
+		"Transmission": "Automatic",
+		"Color": "Black",
+		"Purchase Price": "$37480",
+		"Years Driven": "2012-2014"
+	},
+	{
+		"Make": "Volkswagen",
+		"Model": "Golf TDI",
+		"Year": "2012",
+		"Transmission": "Automatic",
+		"Color": "Grey",
+		"Purchase Price": "$28000",
+		"Years Driven": "2012-2013"
+	},
+	{
+		"Make": "BMW",
+		"Model": "X1 sDrive 28i",
+		"Year": "2014",
+		"Transmission": "Automatic",
+		"Color": "Grey",
+		"Purchase Price": "$39670",
+		"Years Driven": "2013-2016"
+	},
+	{
+		"Make": "BMW",
+		"Model": "M235i",
+		"Year": "2015",
+		"Transmission": "Automatic",
+		"Color": "Blue",
+		"Purchase Price": "$43150",
+		"Years Driven": "2014-2017"
+	},
+	{
+		"Make": "BMW",
+		"Model": "i3 REX",
+		"Year": "2015",
+		"Transmission": "Automatic",
+		"Color": "Orange",
+		"Purchase Price": "$",
+		"Years Driven": "2014-2017"
+	}
+]
